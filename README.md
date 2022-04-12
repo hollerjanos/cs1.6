@@ -1,9 +1,5 @@
 # Counter-Strike 1.6
 
-## Execute in console
+## Launch options
 
-`exec cfg/normal.cfg`
-
-## Execute in launch options
-
-`+exec cfg/normal.cfg`
+`-console +exec cfg/normal.cfg -freq 60 -noforcemparms -noforcemaccel -stretchaspect`
